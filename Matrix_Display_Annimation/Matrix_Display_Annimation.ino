@@ -109,7 +109,7 @@ int CS = 10;    // CS pin of MAX7219 module
 int maxInUse = 4;
 MaxMatrix m(DIN, CS, CLK, maxInUse);
 byte buffer[10];
-char text[]= "Computer Centre       "; // Scrolling text
+char text[]= "Mech-Finix       "; // Scrolling text
 void setup() {
   m.init(); // module initialize
   m.setIntensity(10); // dot matix intensity 0-15
