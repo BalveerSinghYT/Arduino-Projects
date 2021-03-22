@@ -1,2 +1,2 @@
 # Include MaxMatrix folder:
-Must include MaxMatrix.h in libraries folder of Arduino IDE.
+Import MaxMatrix in libraries folder of Arduino IDE.
